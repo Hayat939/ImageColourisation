@@ -1,0 +1,14 @@
+jupyter
+torch
+scikit-image
+numpy
+matplotlib
+argparse
+fastai==1.0.51
+tensorboardX
+ffmpeg-python
+yt-dlp
+opencv-python
+Pillow
+tornado
+imgaug
