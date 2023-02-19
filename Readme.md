@@ -1,6 +1,9 @@
-# **Coourisatio of black and white photos - Readme**
+# **Colourisation of black and white photos**
 
-### **Haaris Hayat **
+### **Haaris Hayat**
+
+## **Introduction**
+In this project I explore the use of several ML models utilising CNNs and GANs to convert old black and white photos to colour. The project report pdf ('Colourisation_Haaris_Hayat.pdf') contains details of the problem space as well as a closer look at the models used.
 
 ## **How to Run**
 The colorizer models can be run from the notebook, which walks users through the entire process.
